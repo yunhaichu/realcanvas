@@ -1,0 +1,30 @@
+# Android / Gradle
+.gradle/
+build/
+**/build/
+local.properties
+*.iml
+.idea/
+
+# Kotlin / Java
+*.class
+
+# Android generated
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Archives and packages
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local scratch
+.env
+.env.*
+tmp/
+temp/
+
